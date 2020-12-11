@@ -19,7 +19,7 @@ function CreateSurvey(props){
       questions.push(test[i].value);
     }
     
-     console.log(questions);
+     console.log(questions); 
     
    
     //this.props.onSurveyCreation();
